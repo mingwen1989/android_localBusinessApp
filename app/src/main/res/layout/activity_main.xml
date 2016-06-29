@@ -47,4 +47,12 @@
         android:layout_below="@+id/imageView2"
         android:layout_centerHorizontal="true" />
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/galleryImageView"
+        android:layout_alignTop="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/menuButton" />
+
 </RelativeLayout>
